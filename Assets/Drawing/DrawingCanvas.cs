@@ -1,10 +1,9 @@
 using System;
 using System.Collections;
-using System.Linq;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace Plugins.ModelDrawing.Drawing
+namespace ModelDrawing.Drawing
 {
     public class DrawingCanvas : MonoBehaviour
     {
