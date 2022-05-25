@@ -395,8 +395,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf94e5601366cd34e8aa757bba3e3074, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brushSize: 1
-  color: {r: 1, g: 0.8836636, b: 0, a: 0}
+  brushSize: 50
+  color: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &776934142 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7609145667655734672, guid: abf139778eb5a3e4181a2666642c78c2, type: 3}
